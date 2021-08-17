@@ -1,6 +1,6 @@
 {
-  "name": "@vercel/tracing-js",
-  "version": "0.5.1",
+  "name": "digivizer/tracing-js",
+  "version": "0.6.1",
   "description": "A partial implementation of the Opentracing JavaScript API for honeycomb.io backend",
   "main": "dist/src/index.js",
   "files": [
