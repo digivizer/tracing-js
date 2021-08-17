@@ -1,5 +1,5 @@
 {
-  "name": "digivizer/tracing-js",
+  "name": "@digivizer/tracing-js",
   "version": "0.6.1",
   "description": "A partial implementation of the Opentracing JavaScript API for honeycomb.io backend",
   "main": "dist/src/index.js",
@@ -15,7 +15,7 @@
     "test": "tape dist/test/**.js",
     "test-coverage": "npx c8 --reporter=lcov tape -r ts-node/register test/**.ts && npx codecov"
   },
-  "repository": "vercel/tracing-js",
+  "repository": "digivizer/tracing-js",
   "author": "styfle",
   "license": "Apache-2.0",
   "engines": {
