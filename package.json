@@ -33,7 +33,7 @@
     "typescript": "^3.3.3"
   },
   "dependencies": {
-    "libhoney": "^1.2.1"
+    "libhoney": "^2.3.2"
   },
   "peerDependencies": {
     "node-fetch": "*"
